@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! 👋 I am Arief </h1>
 
-an Informatics Engineering student at Politeknik Negeri Bandung.  
+an Informatics Engineering student at Bandung State Polytechnic.  
 I thrive on **solving complex problems**, diving into **competitive programming**, and **building efficient systems**.  
 Currently, I'm exploring **full-stack web development** and **system security** while working on personal projects.
 <br/><br/><br/>
