@@ -124,3 +124,9 @@ A C library providing memory-safe, type-agnostic implementations of fundamental 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+  
+### 🐍 My Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riefproject/riefproject/output/github-snake-dark.svg" alt="My Contribution Snake" />
+</p>
